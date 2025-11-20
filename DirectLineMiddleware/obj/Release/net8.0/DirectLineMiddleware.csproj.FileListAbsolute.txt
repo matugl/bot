@@ -50,3 +50,7 @@ C:\Users\MatiasV\OneDrive - Artware srl\Documentos\bot\DirectLineMiddleware\Dire
 C:\Users\MatiasV\OneDrive - Artware srl\Documentos\bot\DirectLineMiddleware\DirectLineMiddleware\obj\Release\net8.0\DirectLineMiddleware.pdb
 C:\Users\MatiasV\OneDrive - Artware srl\Documentos\bot\DirectLineMiddleware\DirectLineMiddleware\obj\Release\net8.0\DirectLineMiddleware.genruntimeconfig.cache
 C:\Users\MatiasV\OneDrive - Artware srl\Documentos\bot\DirectLineMiddleware\DirectLineMiddleware\obj\Release\net8.0\ref\DirectLineMiddleware.dll
+C:\Users\MatiasV\OneDrive - Artware srl\Documentos\bot\DirectLineMiddleware\DirectLineMiddleware\obj\Release\net8.0\DirectLineMiddleware.sourcelink.json
+C:\Users\MatiasV\OneDrive - Artware srl\Documentos\bot\DirectLineMiddleware\DirectLineMiddleware\bin\Release\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\MatiasV\OneDrive - Artware srl\Documentos\bot\DirectLineMiddleware\DirectLineMiddleware\bin\Release\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\MatiasV\OneDrive - Artware srl\Documentos\bot\DirectLineMiddleware\DirectLineMiddleware\bin\Release\net8.0\Newtonsoft.Json.Bson.dll

@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "YS3RQDSaBHM=",
+  "dgSpecHash": "ly88kX0WNyI=",
   "success": true,
   "projectFilePath": "C:\\Users\\MatiasV\\OneDrive - Artware srl\\Documentos\\bot\\DirectLineMiddleware\\DirectLineMiddleware\\DirectLineMiddleware.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MatiasV\\.nuget\\packages\\adaptivecards\\3.1.0\\adaptivecards.3.1.0.nupkg.sha512",
+    "C:\\Users\\MatiasV\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\8.0.22\\microsoft.aspnetcore.jsonpatch.8.0.22.nupkg.sha512",
+    "C:\\Users\\MatiasV\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\8.0.22\\microsoft.aspnetcore.mvc.newtonsoftjson.8.0.22.nupkg.sha512",
     "C:\\Users\\MatiasV\\.nuget\\packages\\microsoft.bcl.timeprovider\\8.0.1\\microsoft.bcl.timeprovider.8.0.1.nupkg.sha512",
     "C:\\Users\\MatiasV\\.nuget\\packages\\microsoft.bot.builder\\4.23.0\\microsoft.bot.builder.4.23.0.nupkg.sha512",
     "C:\\Users\\MatiasV\\.nuget\\packages\\microsoft.bot.builder.integration.aspnet.core\\4.23.0\\microsoft.bot.builder.integration.aspnet.core.4.23.0.nupkg.sha512",
@@ -39,6 +41,7 @@
     "C:\\Users\\MatiasV\\.nuget\\packages\\microsoft.openapi\\2.3.0\\microsoft.openapi.2.3.0.nupkg.sha512",
     "C:\\Users\\MatiasV\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.24\\microsoft.rest.clientruntime.2.3.24.nupkg.sha512",
     "C:\\Users\\MatiasV\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\MatiasV\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "C:\\Users\\MatiasV\\.nuget\\packages\\swashbuckle.aspnetcore\\10.0.1\\swashbuckle.aspnetcore.10.0.1.nupkg.sha512",
     "C:\\Users\\MatiasV\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.0.1\\swashbuckle.aspnetcore.swagger.10.0.1.nupkg.sha512",
     "C:\\Users\\MatiasV\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.0.1\\swashbuckle.aspnetcore.swaggergen.10.0.1.nupkg.sha512",

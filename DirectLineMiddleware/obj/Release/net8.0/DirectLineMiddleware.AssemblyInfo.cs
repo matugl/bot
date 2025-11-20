@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DirectLineMiddleware")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0ec44a9355822feb5d51fdbb9cc97f4af3436f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("DirectLineMiddleware")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DirectLineMiddleware")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -2,8 +2,8 @@
 using Microsoft.Bot.Builder;
 using Microsoft.Bot.Builder.Integration.AspNet.Core;
 
-[ApiController]
 [Route("api/messages")]
+[ApiController]
 public class BotController : ControllerBase
 {
     private readonly IBotFrameworkHttpAdapter _adapter;
@@ -15,7 +15,7 @@ public class BotController : ControllerBase
         _bot = bot;
     }
 
-    [HttpPost, HttpGet]
+    [HttpPost]
     public async Task PostAsync()
     {
         await _adapter.ProcessAsync(Request, Response, _bot);

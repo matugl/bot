@@ -6,6 +6,8 @@ C:\Users\MatiasV\OneDrive - Artware srl\Documentos\bot\DirectLineMiddleware\Dire
 C:\Users\MatiasV\OneDrive - Artware srl\Documentos\bot\DirectLineMiddleware\DirectLineMiddleware\obj\Release\net8.0\PubTmp\Out\DirectLineMiddleware.runtimeconfig.json
 C:\Users\MatiasV\OneDrive - Artware srl\Documentos\bot\DirectLineMiddleware\DirectLineMiddleware\obj\Release\net8.0\PubTmp\Out\DirectLineMiddleware.pdb
 C:\Users\MatiasV\OneDrive - Artware srl\Documentos\bot\DirectLineMiddleware\DirectLineMiddleware\obj\Release\net8.0\PubTmp\Out\AdaptiveCards.dll
+C:\Users\MatiasV\OneDrive - Artware srl\Documentos\bot\DirectLineMiddleware\DirectLineMiddleware\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\MatiasV\OneDrive - Artware srl\Documentos\bot\DirectLineMiddleware\DirectLineMiddleware\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\MatiasV\OneDrive - Artware srl\Documentos\bot\DirectLineMiddleware\DirectLineMiddleware\obj\Release\net8.0\PubTmp\Out\Microsoft.Bcl.TimeProvider.dll
 C:\Users\MatiasV\OneDrive - Artware srl\Documentos\bot\DirectLineMiddleware\DirectLineMiddleware\obj\Release\net8.0\PubTmp\Out\Microsoft.Bot.Builder.dll
 C:\Users\MatiasV\OneDrive - Artware srl\Documentos\bot\DirectLineMiddleware\DirectLineMiddleware\obj\Release\net8.0\PubTmp\Out\Microsoft.Bot.Builder.Integration.AspNet.Core.dll
@@ -26,6 +28,7 @@ C:\Users\MatiasV\OneDrive - Artware srl\Documentos\bot\DirectLineMiddleware\Dire
 C:\Users\MatiasV\OneDrive - Artware srl\Documentos\bot\DirectLineMiddleware\DirectLineMiddleware\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
 C:\Users\MatiasV\OneDrive - Artware srl\Documentos\bot\DirectLineMiddleware\DirectLineMiddleware\obj\Release\net8.0\PubTmp\Out\Microsoft.Rest.ClientRuntime.dll
 C:\Users\MatiasV\OneDrive - Artware srl\Documentos\bot\DirectLineMiddleware\DirectLineMiddleware\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\MatiasV\OneDrive - Artware srl\Documentos\bot\DirectLineMiddleware\DirectLineMiddleware\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.Bson.dll
 C:\Users\MatiasV\OneDrive - Artware srl\Documentos\bot\DirectLineMiddleware\DirectLineMiddleware\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\MatiasV\OneDrive - Artware srl\Documentos\bot\DirectLineMiddleware\DirectLineMiddleware\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\MatiasV\OneDrive - Artware srl\Documentos\bot\DirectLineMiddleware\DirectLineMiddleware\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -30,6 +30,26 @@ public class ExternalBotClient : IExternalBotClient
 
         return json?.Reply ?? "(sin respuesta del bot externo)";
     }
+    public async Task SendAgentMessageAsync(
+    string conversationId,
+    string userId,
+    string text)
+    {
+        var url = $"{_config["ExternalBot:BaseUrl"]}/agent";
+
+        var payload = new
+        {
+            fromAgent = true,
+            text,
+            conversationId,
+            userId
+        };
+
+        var resp = await _httpClient.PostAsJsonAsync(url, payload);
+        resp.EnsureSuccessStatusCode();
+    }
+
+
 }
 
 public class ExternalBotResponse
